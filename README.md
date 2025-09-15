@@ -81,7 +81,7 @@ Instalasi
 Clone repositori ini:
 
 git clone [https://github.com/Harinzu47/notes-app.git]
-cd NAMA_REPO_ANDA
+cd notes-app
 
 Setup Backend:
 
